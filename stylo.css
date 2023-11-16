@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+
+header {
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    padding: 30px 50px;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid wheat;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.lineInput {
+    display: grid;
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid wheat;
+    border-radius: 1px;
+    outline: 0;
+}
